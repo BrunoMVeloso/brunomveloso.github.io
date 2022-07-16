@@ -29,4 +29,7 @@ type: "page"
 0. Veloso, B., Meireles, F., Malheiro, B., \& Burguillo, J. C. (2016). Federated iaas resource brokerage. In Developing Interoperable and Federated Cloud Architecture (pp. 252-280). IGI Global.
 0. Veloso, B., Malheiro, B., \& Burguillo, J. C. (2015). Media brokerage: Agent-based sla negotiation. In New Contributions in Information Systems and Technologies (pp. 575-584). Springer, Cham.
 0. Veloso, B., Sousa, L., \& Malheiro, B. (2013). Personalised advertising supported by agents. In Distributed Computing and Artificial Intelligence (pp. 473-481). Springer, Cham.
-{: reversed="reversed"}
+
+**Articles in Encyclopedias**
+
+0. Veloso, B., Gama, J., \& Malheiro, B. (2021). Classification and Recommendation With Data Streams. In Encyclopedia of Information Science and Technology, Fifth Edition (pp. 675-684). IGI Global.

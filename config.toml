@@ -15,6 +15,11 @@ identifier = "publications"
 name = "Publications"
 url = "/publications/"
 weight = 2
+[[menu.main]]
+identifier = "teaching"
+name = "Teaching"
+url = "/teaching/"
+weight = 2
 
 
 
