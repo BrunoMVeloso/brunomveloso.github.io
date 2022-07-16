@@ -82,10 +82,10 @@ weight = 2
     enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
-    custom = ""
+    custom = "Bruno Veloso"
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
-    hugo = true
+    hugo = false
     # whether to show copyright info
     # 是否显示版权信息
     copyright = true
@@ -638,3 +638,19 @@ weight = 2
     # whether to use object-fit-images to be compatible with older browsers
     # 是否使用 object-fit-images 来兼容旧式浏览器
     objectFit = false
+
+
+
+    socialIcons = [
+      {name = "googlescholar", url = "https://scholar.google.com.br/citations?user=eBtNmMEAAAAJ"},
+      {name = "linkedin", url = "https://www.linkedin.com/in/smastelini"},
+      {name = "researchgate", url = "https://www.researchgate.net/profile/Saulo-Mastelini"},
+      {name = "orcid", url = "https://orcid.org/0000-0002-0092-3572"},
+      {name = "medium", url = "https://medium.com/@saulomastelini"},
+      {name = "applemusic", url = "https://music.apple.com/profile/mastelini"},
+      {name = "instagram", url = "https://www.instagram.com/smastelini"},
+    ]
+
+    [author]
+    email = "saulomastelini@gmail.com"
+    name = "Saulo Martiello Mastelini"
