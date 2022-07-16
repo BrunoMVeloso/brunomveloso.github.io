@@ -1,6 +1,6 @@
 baseURL = 'https://brunomveloso.github.io/'
 languageCode = 'en-us'
-title = 'Bruno Veloso Site'
+title = 'Bruno Veloso'
 theme = 'LoveIt'
 
 
@@ -10,6 +10,11 @@ identifier = "about"
 name = "About"
 url = "/about/"
 weight = 1
+[[menu.main]]
+identifier = "publications"
+name = "Publications"
+url = "/publications/"
+weight = 2
 
 
 
@@ -60,7 +65,7 @@ weight = 1
       logo = ""
       # title name
       # 标题名称
-      name = "Bruno Veloso site"
+      name = "Bruno Veloso"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
