@@ -8,7 +8,7 @@ type: "page"
 
 # 2022
 
-** Author of Book Chapters **
+**Author of Book Chapters**
 
 0. Vasco, E., Veloso, B., Malheiro, B. (2022). Smart Contracts for the CloudAnchor Platform. In International Conference on Practical Applications of Agents and Multi-Agent Systems. Springer, Cham. (Accepted for publication)
 0. Teixeira, S., Rodrigues, J. C., Veloso, B., \& Gama, J. (2022). Challenges of Data-Driven Decision Models: Implications for Developers and for Public Policy Decision-Makers. In Advances in Urban Design and Engineering (pp. 199-215). Springer, Singapore.
@@ -16,14 +16,14 @@ type: "page"
 0. Davari, N. et al. (2022). A Fault Detection Framework Based on LSTM Autoencoder: A Case Study for Volvo Bus Data Set. In: Bouadi, T., Fromont, E., Hüllermeier, E. (eds) Advances in Intelligent Data Analysis XX. IDA 2022. Lecture Notes in Computer Science, vol 13205. Springer, Cham.
 0. Bustos, E., Oliveira, A. S., Veloso, B. M., Siqueira, F. L., \& Costa, A. H. R. ZeroBERTo: Leveraging Zero-Shot Text Classification by Topic Modeling. In Computational Processing of the Portuguese Language: 15th International Conference, PROPOR 2022, Fortaleza, Brazil, March 21–23, 2022, Proceedings (p. 125). Springer Nature.
 
-**2021**
+# 2021
 
 0. Teixeira, S., Londres, G., Veloso, B., Ribeiro, R. P., \& Gama, J. (2021). Improving Smart Waste Collection Using AutoML. In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 283-298). Springer, Cham.
 0. Veloso, B., Caroprese, L., König, M., Teixeira, S., Manco, G., Hoos, H. H., \& Gama, J. (2021). Hyper-parameter Optimization for Latent Spaces. In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 249-264). Springer, Cham.
 0. Leal, F., Veloso, B., Malheiro, B., \& Burguillo, J. C. (2021). Crowdsourced data stream mining for tourism recommendation. In World Conference on Information Systems and Technologies (pp. 260-269). Springer, Cham.
 0. Gama, J., Veloso, B., Aminian, E., \& Ribeiro, R. P. (2021). Current Trends in Learning from Data Streams. In International Conference on Big Data Analytics (pp. 183-193). Springer, Cham.
 
-**2020**
+# 2020
 
 0. Barros, M., Veloso, B., Pereira, P. M., Ribeiro, R. P., \& Gama, J. (2020). Failure detection of an air production unit in operational context. In IoT Streams for Data-Driven Predictive Maintenance and IoT, Edge, and Mobile for Embedded Machine Learning (pp. 61-74). Springer, Cham.
 0. Veloso, B., Malheiro, B., Burguillo, J. C., \& Gama, J. (2020). Impact of trust and reputation based brokerage on the CloudAnchor platform. In International Conference on Practical Applications of Agents and Multi-Agent Systems (pp. 303-314). Springer, Cham.
