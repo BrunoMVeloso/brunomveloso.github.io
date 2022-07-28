@@ -6,9 +6,9 @@ type: "page"
 
 
 
-# **2022**
+#**2022**
 
-## **Author of Book Chapters**
+##**Author of Book Chapters**
 
 0. Vasco, E., Veloso, B., Malheiro, B. (2022). Smart Contracts for the CloudAnchor Platform. In International Conference on Practical Applications of Agents and Multi-Agent Systems. Springer, Cham. (Accepted for publication)
 0. Teixeira, S., Rodrigues, J. C., Veloso, B., \& Gama, J. (2022). Challenges of Data-Driven Decision Models: Implications for Developers and for Public Policy Decision-Makers. In Advances in Urban Design and Engineering (pp. 199-215). Springer, Singapore.
