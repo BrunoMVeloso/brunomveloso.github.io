@@ -1,19 +1,25 @@
----
-title: "About me"
-draft: false
-type: "page"
----
++++
+title = "About"
+description = "Hugo, the world's fastest framework for building websites"
+date = "2019-02-28"
+aliases = ["about-us", "about-hugo", "contact"]
+author = "Hugo Authors"
++++
 
+Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hi! My name is
-From February 2022 to September 2022, I am living in Europe :european_union: as a visiting researcher at [INESC-TEC](https://www.inesctec.pt/en)/[University of Porto](https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home)! My current research goal is to build :wrench: more efficient online k-Nearest Neighbor algorithms under a sliding-window regimen. Let's see how that goes!
+Hugo makes use of a variety of open source projects including:
 
----
+* https://github.com/yuin/goldmark
+* https://github.com/alecthomas/chroma
+* https://github.com/muesli/smartcrop
+* https://github.com/spf13/cobra
+* https://github.com/spf13/viper
 
-I love dogs 
+Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
 
-You can e-mail me at [saulomastelini@gmail](mailto:saulomastelini@gmail.com) if you want to get in touch :handshake:!
+Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
+Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
 
-![Me at Louvre](/images/louvre.jpg)
-*This is me at the Louvre museum! Despite this picture, taking selfies is not among my hobbies* :smile:
+Learn more and contribute on [GitHub](https://github.com/gohugoio).
