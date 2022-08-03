@@ -2,3 +2,9 @@ baseURL: ""
 languageCode: en-us
 title: My New Hugo Site
 theme: hugo-coder
+
+menu:
+  main:
+    - identifier: publications
+      name: Publications
+      url: /pages/publications.md
