@@ -2,14 +2,32 @@ baseURL: ""
 languageCode: en-us
 title: Bruno Veloso
 theme: hugo-coder
+languageCode: "en"
+defaultContentLanguage: "en"
+pygmentsStyle: "bw"
+pygmentsCodeFences: true
+pygmentsCodeFencesGuessSyntax: true
+enableEmoji: true
+
+
+Params:
+  description: "Bruno Veloso personal website"
+  info: ["Machine Learning", "Data Streams"]
+  avatarURL: "/images/bv.jpg"
+  rtl: false
+  colorScheme: "auto"
+  hideColorSchemeToggle: false
+  maxSeeAlsoItems: 5
+
+
 
 menu:
   main:
-    - identifier: publications
-      name: Publications
-      url: /publications/
-      weight: 1
+    - identifier: research
+      name: Research
+      url: /research
+      weight: 10
     - identifier: teaching
       name: Teaching
-      url: /teaching/
-      weight: 2
+      url: /teaching
+      weight: 20
