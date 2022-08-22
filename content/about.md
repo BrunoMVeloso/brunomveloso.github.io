@@ -18,8 +18,13 @@ During the last years, he has served as an expert/reviewer of several conference
 
 # Contact
 INESCTEC
+
 Campus da Faculdade de Engenharia da Universidade do Porto
+
 Rua Dr. Roberto Frias
+
 4200-465 Porto
+
 Portugal
+
 Email: bruno.m.veloso@inesctec.pt
