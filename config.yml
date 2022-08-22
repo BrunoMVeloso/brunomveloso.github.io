@@ -12,7 +12,7 @@ enableEmoji: true
 
 Params:
   description: "Bruno Veloso personal website"
-  info: ["Machine Learning", "Data Streams"]
+  info: ["Machine Learning", "Data Streams", "AutoML"]
   avatarURL: "/images/bv.jpg"
   rtl: false
   colorScheme: "white"
@@ -31,3 +31,7 @@ menu:
       name: Teaching
       url: /teaching
       weight: 20
+    - identifier: about
+      name: About
+      url: /about
+      weight: 30
