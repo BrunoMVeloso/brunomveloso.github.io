@@ -1,4 +1,11 @@
+---
+title: "Research"
+layout: "research"
+url: "/research"
+summary: Research
+---
+
 ### [Publications](https://brunomveloso.github.io/publications/)
 ### [Datasets](https://brunomveloso.github.io/datasets/)
-### [Dissertations](http://localhost:1313/dissertations/)
-### [Projects](http://localhost:1313/projects/)
+### [Dissertations](https://brunomveloso.github.io/dissertations/)
+### [Projects](https://brunomveloso.github.io/projects/)

@@ -15,7 +15,7 @@ Params:
   info: ["Machine Learning", "Data Streams"]
   avatarURL: "/images/bv.jpg"
   rtl: false
-  colorScheme: "auto"
+  colorScheme: "white"
   hideColorSchemeToggle: false
   maxSeeAlsoItems: 5
 
