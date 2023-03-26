@@ -5,7 +5,22 @@ url: "/teaching"
 summary: Teaching
 ---
 
+# 2023 - 2024
+
+## Faculty of Economics - University of Porto
+- Quantitative Case Studies
+- Business Analytics
+- Information Management
+- Laboratory
+- Data Mining II
+- Business Intelligence
+
 # 2022 - 2023
+
+## Faculty of Economics - University of Porto
+- Quantitative Case Studies
+- Business Analytics
+- Information Management
 
 ## University Portucalense
 - Distributed Systems

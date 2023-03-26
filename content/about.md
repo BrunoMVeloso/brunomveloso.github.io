@@ -6,7 +6,7 @@ summary: About
 ---
 
 
-Bruno Veloso is an assistant professor at the Department of Science and Technology at the University Portucalense, Portugal. He is also an Invited Lecturer of the Faculty of Economics - University of Porto, Portugal, and a Senior Researcher at LIAAD - INESCTEC (Laboratory of Artificial Intelligence and Decision Support). He is the coordinator of the BSc in Informatics Engineering and the MSc Data Science coordinator at the University Portucalense.
+Bruno Veloso is an assistant professor at the Faculty of Economics - University of Porto, Portugal, and a Senior Researcher at LIAAD - INESCTEC (Laboratory of Artificial Intelligence and Decision Support). He is the coordinator of the BSc in Informatics Engineering and the MSc Data Science coordinator at the University Portucalense.
 
 He received his degree in Electronics and Computer Engineer in 2010, and in 2012 he finished his MSc in Electronics and Computer Engineer in Telecommunications at  Instituto Superior de Engenharia do Porto, Portugal. He has an International PhD in Telematics Engineering from the University of Vigo.
 
@@ -27,4 +27,4 @@ Rua Dr. Roberto Frias
 
 Portugal
 
-Email: bruno.m.veloso@inesctec.pt
+Email: bruno.m.veloso@inesctec.pt or bveloso@fep.up.pt
