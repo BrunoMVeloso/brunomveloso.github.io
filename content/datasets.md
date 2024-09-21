@@ -17,7 +17,7 @@ https://doi.org/10.1038/s41597-022-01877-3
 
 # Anonymised Phone Call Dataset for Anomaly Detection
 
-The dataset provides anonymized information related to phone calls
+The dataset provides anonymized information related to phone calls and bypass fraud problem.
 
 The dataset is available on the zenodo platform:
 https://zenodo.org/records/13254389
