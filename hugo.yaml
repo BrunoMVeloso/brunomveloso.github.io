@@ -1,6 +1,6 @@
 baseURL: https://brunomveloso.github.io
 languageCode: en-us
-title: Bruno Veloso
+title: Bruno Velosos
 theme: PaperMod
 
 menu:
@@ -15,5 +15,5 @@ menu:
       weight: 20
     - identifier: example
       name: example.org
-      url: https://example.org
+      url: https://examples.org
       weight: 30
