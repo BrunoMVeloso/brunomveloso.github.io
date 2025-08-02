@@ -1,0 +1,37 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Bruno Veloso'
+theme = 'hugo-goa'
+defaultContentLanguage = "en"
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
+[params]
+    author = 'Bruno Veloso'
+    intro = 'Machine Learning, Data Streams, AutoML'
+    authorimage = 'bv.jpg'
+
+[params.social]
+    github = 'brunomveloso'
+    linkedin = 'bruno-veloso-419795132'
+    googlescholar = 'bzNlzJkAAAAJ'
+
+[params.extra]
+    copyright = '© 2024. Bruno Veloso. [Some Rights Reserved]'
+    poweredby = false
+    rss = false
+
+[[menu.main]]
+    name = "Research"
+    weight = 100
+    url = "research/"
+[[menu.main]]
+    name = "Teaching"
+    weight = 200
+    url = "teaching/"
+[[menu.main]]
+    name = "About"
+    weight = 300
+    url = "about/"
