@@ -1,60 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bruno Veloso</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Bruno Veloso</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>About</description>
-    </item>
-    <item>
-      <title>Datasets</title>
-      <link>//localhost:1313/datasets/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/datasets/</guid>
-      <description>Datasets</description>
-    </item>
-    <item>
-      <title>Dissertations</title>
-      <link>//localhost:1313/dissertations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/dissertations/</guid>
-      <description>Dissertations</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>//localhost:1313/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/</guid>
-      <description>Projects</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>//localhost:1313/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications/</guid>
-      <description>Publications</description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>//localhost:1313/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/research/</guid>
-      <description>Research</description>
-    </item>
-    <item>
-      <title>Teaching</title>
-      <link>//localhost:1313/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching/</guid>
-      <description>Teaching</description>
-    </item>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
