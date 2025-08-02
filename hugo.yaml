@@ -3,6 +3,10 @@ languageCode: en-us
 title: Bruno Velosos
 theme: PaperMod
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 menu:
   main:
     - identifier: categories
