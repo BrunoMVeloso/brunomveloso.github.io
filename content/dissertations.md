@@ -6,6 +6,7 @@ summary: Dissertations
 ---
 
 - ”Telco Voice and Data Traffic Model”, Faculty of Economics - University of Porto - Porto, Portugal, Co-Supervisor, 2022 (ongoing).
+- ”Telco Voice and Data Traffic Model”, Faculty of Economics - University of Porto - Porto, Portugal, Co-Supervisor, 2022 (ongoing).
 - ”Digitalize and grow the customer support”- ”Digitalize and grow the customer support”, Faculty of Economics - University of Porto - Porto, Portugal, Co-Supervisor,
  2022 (ongoing).
 - ”Satellite imagery classification using machine learning techniques”,University Portucalense, Porto, Portugal, Supervisor, 2022 (ongoing).
