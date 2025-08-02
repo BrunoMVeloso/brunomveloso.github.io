@@ -1,7 +1,7 @@
 baseURL: https://brunomveloso.github.io
 languageCode: en-us
 title: Bruno Velosos
-theme: PaperMod
+theme: github.com/adityatelange/hugo-PaperMod
 
 caches:
   images:
